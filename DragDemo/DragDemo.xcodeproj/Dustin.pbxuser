@@ -15,9 +15,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* DragDemoViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 1296}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1392}}";
 			sepNavSelRange = "{1813, 0}";
-			sepNavVisRange = "{1007, 1131}";
+			sepNavVisRange = "{941, 1197}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -36,7 +36,7 @@
 					20,
 					993,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -51,17 +51,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 267655683;
-			PBXWorkspaceStateSaveDate = 267655683;
+			PBXPerProjectTemplateStateSaveDate = 267662780;
+			PBXWorkspaceStateSaveDate = 267662780;
 		};
 		perUserProjectItems = {
 			DAC235460FF4274C0041AA17 /* PBXTextBookmark */ = DAC235460FF4274C0041AA17 /* PBXTextBookmark */;
 			DAC235470FF4274C0041AA17 /* PBXTextBookmark */ = DAC235470FF4274C0041AA17 /* PBXTextBookmark */;
-			DAC235480FF4274C0041AA17 /* PBXTextBookmark */ = DAC235480FF4274C0041AA17 /* PBXTextBookmark */;
 			DAC235490FF4274C0041AA17 /* PBXTextBookmark */ = DAC235490FF4274C0041AA17 /* PBXTextBookmark */;
 			DAC2354A0FF4274C0041AA17 /* PBXTextBookmark */ = DAC2354A0FF4274C0041AA17 /* PBXTextBookmark */;
 			DAC2354B0FF4274C0041AA17 /* PBXTextBookmark */ = DAC2354B0FF4274C0041AA17 /* PBXTextBookmark */;
 			DAC2354C0FF4274C0041AA17 /* PBXTextBookmark */ = DAC2354C0FF4274C0041AA17 /* PBXTextBookmark */;
+			DAC2355C0FF437780041AA17 /* PBXTextBookmark */ = DAC2355C0FF437780041AA17 /* PBXTextBookmark */;
 		};
 		sourceControlManager = DAC235330FF41A220041AA17 /* Source Control */;
 		userBuildSettings = {
@@ -129,16 +129,6 @@
 		vrLen = 383;
 		vrLoc = 0;
 	};
-	DAC235480FF4274C0041AA17 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* DragDemoViewController.m */;
-		name = "DragDemoViewController.m: 38";
-		rLen = 0;
-		rLoc = 1206;
-		rType = 0;
-		vrLen = 1316;
-		vrLoc = 0;
-	};
 	DAC235490FF4274C0041AA17 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623240D0F684500981E51 /* DragDemoAppDelegate.h */;
@@ -178,5 +168,15 @@
 		rType = 0;
 		vrLen = 1131;
 		vrLoc = 1007;
+	};
+	DAC2355C0FF437780041AA17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DragDemoViewController.m */;
+		name = "DragDemoViewController.m: 61";
+		rLen = 0;
+		rLoc = 1813;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 941;
 	};
 }
